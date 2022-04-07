@@ -6,6 +6,9 @@
 *.lo
 *.o
 *.obj
+*.pkl
+*.sqlite
+*.csv
 
 # Precompiled Headers
 *.gch

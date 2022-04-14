@@ -122,6 +122,11 @@ The main ideia here is to add value to the business as soon as possible in each 
 
 * Plan deployment architecture and implement it.
 
+&nbsp; 
+  <p align="center">
+    <img width=80%" alt="drawing" src="reports/figures/cloud_deployment_pa05.png">
+  </p>
+  &nbsp; 
 
 # 4. Top 3 Data Insights
 
@@ -136,14 +141,41 @@ Gaussian Mixture Model
 
 # 6. Machine Learning Modelo Performance
 
-# 7. Business Results
-
+# 7. Business Solution
+ 
 # 8. Conclusions
 
 # 9. Lessons Learned
 
 # 10. Next Steps to Improve
 
+* Create new features to improve model performance;
+
+* Create and test more embedding spaces with larger dimensions and check the model performance with it;
+
+* Test different ML models for segmentation;
+
+* Do A/B test to comprove if the clusters segmentation are performing well;
+
+* Gather more business hypotheses and validate them with data.
+
+* Ask the business team with the first dashboard provided is enough to solve their problems;
+
+* Improve the model in production with better and modern tools;
+
+* Puth the dashboard in production (Heroku)
+
+* Create a streamlit app to upload the new data;
+
+* Improve the code to make it cleaner and more efficient.
+
+---
+## References:
+* Dataset House Sales in King County (USA) from [Kaggle](https://www.kaggle.com/vik2012kvs/high-value-customers-identification )
+
+* Blog [Seja um Data Scientist](hhttps://www.comunidadedatascience.com/como-criar-um-programa-de-fidelidade-para-empresa/)
+
+
 # LICENSE
 
-# All Rights Reserved - Comunidade DS 2021
+# All Rights Reserved - Comunidade DS 2022

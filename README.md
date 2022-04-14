@@ -124,7 +124,7 @@ The main ideia here is to add value to the business as soon as possible in each 
 
 &nbsp; 
   <p align="center">
-    <img width=100%" alt="drawing" src="reports/figures/cloud_deployment_pa05.png">
+    <img width=100%" src="reports/figures/cloud_deployment_pa05.png">
   </p>
   &nbsp; 
 

@@ -62,7 +62,7 @@ The main ideia here is to add value to the business as soon as possible in each 
 
 &nbsp; 
   <p align="center">
-    <img width="50%" alt="drawing" src="reports/figures/crisp_DS.jpeg">
+    <img width=80%" alt="drawing" src="reports/figures/crisp_DS.jpeg">
   </p>
   &nbsp; 
 

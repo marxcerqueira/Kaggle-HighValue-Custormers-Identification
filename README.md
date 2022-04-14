@@ -67,21 +67,27 @@ The main ideia here is to add value to the business as soon as possible in each 
   &nbsp; 
 
 **Step 01. Imports:**
+
 Import required libraries and functions.
 
 **Step 02. Data Extraction:**
+
 For the available data, check files and data fields description. Then load data from CSV file.
 
 **Step 03. Data Description:**
+
 Rename columns and check the number of rows in the table (does it requires big data tools?). Handle missing values and convert data types. Then use statistics metrics to identify data outside the scope of business.
 
 **Step 04. Data Filtering:**
+
 Filter rows and select columns that do not contain relevant information for modelling or do not match the scope of the business.
 
 **Step 05. Feature Engineering:**
+
 Create relevant variables for the project.
 
 **Step 06. Exploratory Data Analysis and Space Study:**
+
 An analysis to validate business hypotheses, combat business guesswork, check each feature by itself and the relationship among them.
 
 We are looking for features with high variance so it can give us a better explanation of the phenomenon.
@@ -89,33 +95,41 @@ We are looking for features with high variance so it can give us a better explan
 Explore the Embedding Spaces to check how the data is distributed in those different spaces, the goal here is to choose the best for clustering the customers.
 
 **Step 07. Feature Selection:**
+
 Select the most signiﬁcant attributes for training the model based on correlation and in the business problem
 
 **Step 08. Data Preparation:**
+
 Prepare data so that the Machine Learning models can more easily learn and perform more accurately. Then create an embedded space for data.
 
 **Step 09. Hyperparameter Fine Tunning:**
+
 Test different Machine Learning models and select the one with the best performance. Then, choose the best values for each parameter of the selected ML model.
 
 **Step 10. Model Training:**
+
 Create the final Machine Learning model and measure its performance.
 
 **Step 11. Cluster Analysis:**
+
 Analyse clusters after Machine Learning modelling.
 
 **Step 12. Exploratory Data Analysis With Business Insights:**
+
 Test business hypotheses and answer business questions.
 
 **Step 13. Deployment:**
+
 Plan deployment architecture and implement it.
 
 
 # 4. Top 3 Data Insights
-1. Understanding the business problem
 
-2. Collecting the data
+1. U
 
-3. Data Description
+2. l
+
+3. lk
 
 # 5. Machine Learning Model Applied
 Gaussian Mixture Model

@@ -172,7 +172,8 @@ Gaussian Mixture Model
   <p align="center">
     <img width=100%" src="reports/figures/cloud_deployment_pa05.png">
   </p>
-  &nbsp; 
+  &nbsp;
+  
 # 8. Conclusions
 
 # 9. Lessons Learned

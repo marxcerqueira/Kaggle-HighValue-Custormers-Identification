@@ -87,7 +87,7 @@ My strategy to solve this challenge was the IoT method which means:
 The main ideia here is to add value to the business as soon as possible in each cycle of the project.
 &nbsp; 
   <p align="center">
-    <img width=80%" alt="drawing" src="reports/figures/crisp_DS.jpeg">
+    <img width=70%" alt="drawing" src="reports/figures/crisp_DS.jpeg">
   </p>
   &nbsp; 
 **Step 01. Imports:**
@@ -173,10 +173,37 @@ Gaussian Mixture Model
     <img width=100%" src="reports/figures/cloud_deployment_pa05.png">
   </p>
   &nbsp;
+
+ &nbsp; 
+  <p align="center">
+    <img width=100%" src="reports/figures/reports/figures/metabase_dashboard.png">
+  </p>
+  &nbsp;
   
 # 8. Conclusions
 
+To sum up, having a loyalty group is of great importance as the Champions customers contribute to a large part of the company's revenue. And the customer segmentation helps a lot the bussiness strategy to increase the company's gross revenue.
+
+However, clustering problems are complex since there's no straightforward direct to form choices once we have no target variable, as was the case in supervised ML problems. 
+
+Clustering problems require us to form choices intensely based on commerce understanding, much more than in supervised ML problems. As well as it requires much more data exploration together with the business team to breakdown the insights.
+
 # 9. Lessons Learned
+
+Multiple knowledge was acquired during the execution of this end-to-end unsupervised Data Science project, such as:
+
+* Convert high-dimensional data to low-dimensional data with Embedding Spaces for better clustering.
+
+* How plan a data pipeline and use the AWS solutions (S3, EC2 and RDS) to create a more robust solution for the company.
+
+* Schedule the execution of the model in a jupyter notebook with cronjob and papermill in EC2.
+
+* How to create dashboard using Metabase and host it on Heroku cloud.
+
+* Add value to the bussines as soon as possible during the first cycles of the project.
+
+* Focus on the business solution in order to not get lost on different tools to be used throughout the project
+
 
 # 10. Next Steps to Improve
 

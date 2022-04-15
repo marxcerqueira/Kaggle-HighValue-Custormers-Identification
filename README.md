@@ -250,7 +250,9 @@ Multiple knowledge was acquired during the execution of this end-to-end unsuperv
 ## References:
 * Dataset High Value Customers Segmentation from [Kaggle](https://www.kaggle.com/vik2012kvs/high-value-customers-identification )
 
-* Blog [Seja um Data Scientist](hhttps://www.comunidadedatascience.com/como-criar-um-programa-de-fidelidade-para-empresa/)
+* Blog [Seja um Data Scientist](https://www.comunidadedatascience.com/como-criar-um-programa-de-fidelidade-para-empresa/)
+
+* [UMAP Dimension Reduction](https://www.youtube.com/watch?v=eN0wFzBA4Sc)
 
 
 # LICENSE

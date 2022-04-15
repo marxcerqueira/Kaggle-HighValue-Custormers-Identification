@@ -148,6 +148,16 @@ The main ideia here is to add value to the business as soon as possible in each 
 
 # 4. Top 3 Data Insights
 
+* Cluster 3: Champions
+* Cluster 1: Almost Champions
+* Cluster 5: Must buy more frequently and more products
+* Cluster 4: Must buy more expensive products
+* Cluster 2: Must buy more items and different products
+* Cluster 6: Churn 1
+* Cluster 7: Churn 2
+* Cluster 0: Churn 3
+* Cluster 8: Churn 4
+
 1. The Champions cluster has a gross revenue volume of **41.18%** over total gross revenue volume.
 &nbsp; 
   <p align="center">
@@ -165,15 +175,24 @@ The main ideia here is to add value to the business as soon as possible in each 
 3. The Champions cluster has average purchase returns above the overall average. Over **719.42%**
 
 # 5. Machine Learning Model Applied
-Gaussian Mixture Model
+* Gaussian Mixture Model
+* KNN for comparisson 
 
 # 7. Business Solution
+The whole bussiness solutions was made following the architecture bellow and as result a dashboard with important bussiness parameters.
+
+Also a full [jupyter notebook](https://github.com/marxcerqueira/Kaggle-HighValue-Custormers-Identification/blob/main/notebooks/c8.0-mc-final-EDA.ipynb) with the bussiness questions responded was made at session **12.5**.
+
+And the jupyter notebook deployed at AWS you can check it [here](https://github.com/marxcerqueira/Kaggle-HighValue-Custormers-Identification/blob/main/notebooks/c9.0-mc-deploy.ipynb)
+
+**Deploy Infrastructure**
  &nbsp; 
   <p align="center">
     <img width=100%" src="reports/figures/cloud_deployment_pa05.png">
   </p>
   &nbsp;
 
+**Metabase**
  &nbsp; 
   <p align="center">
     <img width=100%" src="reports/figures/metabase_dashboard.png">

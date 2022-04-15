@@ -176,10 +176,10 @@ Gaussian Mixture Model
 
  &nbsp; 
   <p align="center">
-    <img width=100%" src="reports/figures/reports/figures/metabase_dashboard.png">
+    <img width=100%" src="reports/figures/metabase_dashboard.png">
   </p>
   &nbsp;
-  
+
 # 8. Conclusions
 
 To sum up, having a loyalty group is of great importance as the Champions customers contribute to a large part of the company's revenue. And the customer segmentation helps a lot the bussiness strategy to increase the company's gross revenue.

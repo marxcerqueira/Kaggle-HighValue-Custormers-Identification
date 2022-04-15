@@ -85,13 +85,11 @@ My strategy to solve this challenge was the IoT method which means:
 
 ### Project Cycle
 The main ideia here is to add value to the business as soon as possible in each cycle of the project.
-
 &nbsp; 
   <p align="center">
     <img width=80%" alt="drawing" src="reports/figures/crisp_DS.jpeg">
   </p>
   &nbsp; 
-
 **Step 01. Imports:**
 
 * Import required libraries and functions.
@@ -147,7 +145,6 @@ The main ideia here is to add value to the business as soon as possible in each 
 **Step 13. Deployment:**
 
 * Plan deployment architecture and implement it.
-
 &nbsp; 
   <p align="center">
     <img width=100%" src="reports/figures/cloud_deployment_pa05.png">
@@ -157,7 +154,6 @@ The main ideia here is to add value to the business as soon as possible in each 
 # 4. Top 3 Data Insights
 
 1. The Champions cluster has a gross revenue volume of **41.18%** over total gross revenue volume.
-
 &nbsp; 
   <p align="center">
     <img width=100%" src="reports/figures/top1_insight.png">
@@ -165,7 +161,6 @@ The main ideia here is to add value to the business as soon as possible in each 
   &nbsp; 
 
 2. The Champions cluster has a product purchase volume of **30.87%**of the total product volume.
-
 &nbsp; 
   <p align="center">
     <img width=100%" src="reports/figures/qty_products_chart.png">

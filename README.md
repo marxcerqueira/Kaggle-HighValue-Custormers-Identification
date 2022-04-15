@@ -1,8 +1,6 @@
 # High Value Customers Segmentation - Champions Program
 
- <p align="center"><img width="40%" alt="drawing" src="reports/figures/too-broad-customer-segmentation-1200x740.jpg"></p>
-
-#### This project was made by Marx Cerqueira.
+ <p align="center"><img width="50%" alt="drawing" src="reports/figures/too-broad-customer-segmentation-1200x740.jpg"></p>
 
 #### High Value Customers Segmentation - Champions Program
 # 1. Business Problem.
@@ -52,10 +50,38 @@ As a result for this project, we are expected to deliver a list of people eligib
 My strategy to solve this challenge was the IoT method which means:
 
 **Input**
+1. Business Problem:
+    - Find the most valuable customers to join the Champions program;
+2. Dataset
+    - Ecommerce sales data for the period of one year (Nov 2016 to Dec 2017).
 
 **Output**
+1. A dashboard with customers segmentation with those who will join the Champions program;
+
+2. Report with the anserws for the business questions
 
 **Tasks**
+
+* **Who are the eligible people to participate in the Champions program?** -- What does being **eligible** mean? What is a **high-value customers** for the company? We assumed that a high-value customers are those with good Lifetime Value (LTV).
+
+* **How many customers will be part of the loyalty group?** -- After find the Champions Cluster count how many customers are in the Champions group. -- Evaluete the percentage of the Champions customers from the total base.
+
+* **What are the main characteristics of these customers?** -- After find the Champions Cluster describe the Champions customers in terms of avarage purchase characteristics.
+
+* **What is the percentage of revenue contribution that comes from the Champions?**  -- After find the Champions Cluster determine its gross revenue contribution and the total gross revenue for all clusters.
+
+* **What are the conditions for a person to be eligible for Champions?** -- Define the periodicity of the model (1 month, 3 months...) -- Customer "performance" is close to the average of the Champions cluster -- Define performance metric.
+
+* **What are the conditions for a person to be removed from Champions?** -- Define the periodicity of the model (1 month, 3 months...) -- The person must be dissimilar to a person in the group.
+
+* **What are the guarantees that the Champions program is better than the rest of the base?**
+    - A/B Test
+
+* **What actions can the marketing team take to increase sales?**
+    - Discount;
+    - Purchase preference;
+    - Free shipping;
+    - Invites to visit the company, etc.
 
 ### Project Cycle
 The main ideia here is to add value to the business as soon as possible in each cycle of the project.
@@ -130,16 +156,26 @@ The main ideia here is to add value to the business as soon as possible in each 
 
 # 4. Top 3 Data Insights
 
-1. U
+1. The Champions cluster has a gross revenue volume of **41.18%** over total gross revenue volume.
 
-2. l
+&nbsp; 
+  <p align="center">
+    <img width=100%" src="reports/figures/top1_insight.png">
+  </p>
+  &nbsp; 
 
-3. lk
+2. The Champions cluster has a product purchase volume of **30.87%**of the total product volume.
+
+&nbsp; 
+  <p align="center">
+    <img width=100%" src="reports/figures/qty_products_chart.png">
+  </p>
+  &nbsp; 
+
+3. The Champions cluster has average purchase returns above the overall average. Over **719.42%**
 
 # 5. Machine Learning Model Applied
 Gaussian Mixture Model
-
-# 6. Machine Learning Modelo Performance
 
 # 7. Business Solution
  
@@ -171,7 +207,7 @@ Gaussian Mixture Model
 
 ---
 ## References:
-* Dataset House Sales in King County (USA) from [Kaggle](https://www.kaggle.com/vik2012kvs/high-value-customers-identification )
+* Dataset High Value Customers Segmentation from [Kaggle](https://www.kaggle.com/vik2012kvs/high-value-customers-identification )
 
 * Blog [Seja um Data Scientist](hhttps://www.comunidadedatascience.com/como-criar-um-programa-de-fidelidade-para-empresa/)
 

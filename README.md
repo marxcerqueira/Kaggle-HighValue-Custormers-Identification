@@ -145,11 +145,6 @@ The main ideia here is to add value to the business as soon as possible in each 
 **Step 13. Deployment:**
 
 * Plan deployment architecture and implement it.
-&nbsp; 
-  <p align="center">
-    <img width=100%" src="reports/figures/cloud_deployment_pa05.png">
-  </p>
-  &nbsp; 
 
 # 4. Top 3 Data Insights
 
@@ -173,7 +168,11 @@ The main ideia here is to add value to the business as soon as possible in each 
 Gaussian Mixture Model
 
 # 7. Business Solution
- 
+ &nbsp; 
+  <p align="center">
+    <img width=100%" src="reports/figures/cloud_deployment_pa05.png">
+  </p>
+  &nbsp; 
 # 8. Conclusions
 
 # 9. Lessons Learned

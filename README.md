@@ -240,7 +240,7 @@ Multiple knowledge was acquired during the execution of this end-to-end unsuperv
 
 * Improve the model in production with better and modern tools;
 
-* Puth the dashboard in production (Heroku)
+* Put the dashboard in production (Heroku)
 
 * Create a streamlit app to upload the new data;
 

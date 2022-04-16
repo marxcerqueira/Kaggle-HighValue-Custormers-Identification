@@ -1,6 +1,6 @@
 # High Value Customers Segmentation - Champions Program
 
- <p align="center"><<img src="reports/figures/too-broad-customer-segmentation-1200x740.jpg" align="center" ALT="HTML" width="70%"/></p>
+<p align="center"><<img src="reports/figures/too-broad-customer-segmentation-1200x740.jpg" align="center" ALT="HTML" width="70%"/></p>
 
 #### High Value Customers Segmentation - Champions Program
 # 1. Business Problem.

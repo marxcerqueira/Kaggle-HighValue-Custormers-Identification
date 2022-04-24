@@ -148,27 +148,27 @@ The main ideia here is to add value to the business as soon as possible in each 
 
 # 4. Top 3 Data Insights
 
-* Cluster 3: Champions
-* Cluster 1: Almost Champions
-* Cluster 5: Must buy more frequently and more products
-* Cluster 4: Must buy more expensive products
+* Cluster 6: Champions
+* Cluster 4: Almost Champions
+* Cluster 1: Must buy more frequently and more products
+* Cluster 7: Must buy more expensive products
 * Cluster 2: Must buy more items and different products
-* Cluster 6: Churn 1
-* Cluster 7: Churn 2
-* Cluster 0: Churn 3
-* Cluster 8: Churn 4
+* Cluster 8: Churn 1
+* Cluster 0: Churn 2
+* Cluster 5: Churn 3
+* Cluster 3: Churn 4
 
-1. The Champions cluster has a gross revenue volume of **41.18%** over total gross revenue volume.
+1. The Champions cluster has a gross revenue volume of **53.86%** over total gross revenue volume.
 &nbsp; 
   <p align="center">
-    <img width=100%" src="reports/figures/top1_insight.png">
+    <img width=100%" src="reports/figures/avg_gross_revenue_cluster_02.png">
   </p>
   &nbsp; 
 
-2. The Champions cluster has a product purchase volume of **30.87%**of the total product volume.
+2. The Champions cluster has a product purchase volume of **33.05%**of the total product volume.
 &nbsp; 
   <p align="center">
-    <img width=100%" src="reports/figures/qty_products_chart.png">
+    <img width=100%" src="reports/figures/avg_qty_products_by_cluster_02.png">
   </p>
   &nbsp; 
 

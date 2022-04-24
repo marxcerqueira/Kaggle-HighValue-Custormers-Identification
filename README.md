@@ -160,6 +160,7 @@ The main ideia here is to add value to the business as soon as possible in each 
 * Cluster 5: Churn 3
 * Cluster 3: Churn 4
 
+
 1. The Champions cluster has a gross revenue volume of **53.86%** over total gross revenue volume.
 &nbsp; 
   <p align="center">

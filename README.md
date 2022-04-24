@@ -168,12 +168,25 @@ The main ideia here is to add value to the business as soon as possible in each 
   </p>
   &nbsp; 
 
+&nbsp; 
+  <p align="left">
+    <img width=100%" src="reports/figures/avg_gross_revenue_table.png">
+  </p>
+&nbsp;
+  
+
 2. The Champions cluster has a product purchase volume of **33.05%**of the total product volume.
 &nbsp; 
   <p align="center">
     <img width=100%" src="reports/figures/avg_qty_products_by_cluster_02.png">
   </p>
   &nbsp; 
+
+&nbsp; 
+  <p align="left">
+    <img width=100%" src="reports/figures/avg_qty_products_table.png">
+  </p>
+&nbsp;
 
 3. The Champions cluster has average purchase returns above the overall average. Over **719.42%**
 

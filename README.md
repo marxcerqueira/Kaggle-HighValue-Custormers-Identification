@@ -175,18 +175,18 @@ The main ideia here is to add value to the business as soon as possible in each 
   </p>
   &nbsp; 
 
-3. The Champions cluster has average purchase returns above the overall average. Over **719.42%**
+3. The Champions customers have average purchase returns above the overall average. Over **808.36%**
 
 # 5. Machine Learning Model Applied
 * Gaussian Mixture Model
 * KNN for comparisson 
 
 # 7. Business Solution
-The whole bussiness solutions was made following the architecture bellow and as result a dashboard with important bussiness parameters.
+The whole bussiness solutions was made following the architecture bellow and as a result a dashboard with important bussiness parameters.
 
 Also a full [jupyter notebook](https://github.com/marxcerqueira/Kaggle-HighValue-Custormers-Identification/blob/main/notebooks/c8.0-mc-final-EDA.ipynb) with the bussiness questions responded was made at session **12.5**.
 
-And the jupyter notebook deployed at AWS you can check it [here](https://github.com/marxcerqueira/Kaggle-HighValue-Custormers-Identification/blob/main/notebooks/c9.0-mc-deploy.ipynb)
+And the jupyter notebook deployed at AWS you can check it [here](https://github.com/marxcerqueira/Kaggle-HighValue-Custormers-Identification/blob/main/src/models/c9.1-mc-deploy02.ipynb)
 
 **Deploy Infrastructure**
  &nbsp; 

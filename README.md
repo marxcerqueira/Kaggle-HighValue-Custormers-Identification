@@ -198,7 +198,7 @@ And the jupyter notebook deployed at AWS you can check it [here](https://github.
 **Metabase**
  &nbsp; 
   <p align="center">
-    <img width=100%" src="reports/figures/metabase_dashboard.png">
+    <img width=100%" src="reports/figures/metabase_champions03.png">
   </p>
   &nbsp;
 
